@@ -714,6 +714,13 @@
     "repo": "silentvoid13/Chesser"
   },
   {
+    "id": "claude-code-chat",
+    "name": "Claude Code Chat",
+    "author": "Towns-rong",
+    "description": "Chat with Claude Code directly inside Obsidian — full file access, shell, and tool capabilities.",
+    "repo": "Towns-rong/obsidian-claude-code-chat"
+  },
+  {
     "id": "format-hotkeys-obsidian",
     "name": "Format Hotkeys",
     "author": "anstosa",
