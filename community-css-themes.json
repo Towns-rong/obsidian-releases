@@ -3510,13 +3510,6 @@
     "modes": ["dark"]
   },
   {
-    "name": "Elysian",
-    "author": "matothetomato",
-    "repo": "matothetomato/Elysian",
-    "screenshot": "cover.png",
-    "modes": ["dark", "light"]
-  },
-  {
     "name": "Nebulux",
     "author": "sikoso774",
     "repo": "sikoso774/Nebulux",
@@ -3793,6 +3786,20 @@
     "name": "Alien",
     "author": "jabaho9523",
     "repo": "jabaho9523/AlienTheme",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Slytherin",
+    "author": "MatheusZarkov",
+    "repo": "matheuszarkov/slytherin",
+    "screenshot": "Slytherin.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Zenith",
+    "author": "Ryan Bakker",
+    "repo": "carnalmatrix/obsidian-mantle-zenith",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
   }
